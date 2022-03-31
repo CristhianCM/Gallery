@@ -20,4 +20,4 @@ Introduction to photography with information on photographic concepts with a ser
 
 Visit [GitHub_Page_Gallery](https://cristhiancm.github.io/Gallery/#inicio)
 
-![Image text]()
+![Image text](https://github.com/CristhianCM/Gallery/blob/main/Image/Gallery_Finish.png)
